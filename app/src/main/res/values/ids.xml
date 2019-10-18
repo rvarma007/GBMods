@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_hideseen" type="id" />
+    <item name="menu_hide2tick" type="id" />
+    <item name="hidebluetick" type="id" />
+    <item name="composing" type="id" />
+    <item name="recording" type="id" />
+    <item name="playid" type="id" />
+    <item name="restart" type="id" />
+    <item name="openc" type="id" />
+    <item name="menu_antirevoke" type="id" />
+    <item name="menu_hidestatus" type="id" />
+    <item name="menu_BOR" type="id" />
+    <item name="statusmenu" type="id" />
+    <item name="tb" type="id" />
+    <item name="tb1" type="id" />
+    <item name="tb2" type="id" />
+    <item name="tb3" type="id" />
+    <item name="tb4" type="id" />
+    <item name="tb5" type="id" />
+    <item name="tb6" type="id" />
+    <item name="tb7" type="id" />
+    <item name="follow" type="id" />
+</resources>
